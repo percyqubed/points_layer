@@ -84,7 +84,7 @@ class _PointsLayerState extends State<PointsLayer> {
               ),
             ),
             child: Container(
-              color: Colors.transparent,
+              color: Colors.red,
             ),
           ),
         ),
